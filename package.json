@@ -1,0 +1,22 @@
+{
+  "name": "projecttwo",
+  "version": "1.0.0",
+  "description": "js project number two",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndao1005/ProjectTwo.git"
+  },
+  "keywords": [
+    "WEB503"
+  ],
+  "author": "John Dao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johndao1005/ProjectTwo/issues"
+  },
+  "homepage": "https://github.com/johndao1005/ProjectTwo#readme"
+}
